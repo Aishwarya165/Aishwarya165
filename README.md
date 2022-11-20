@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Aishwarya165
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aishwarya Rajendran
+- 👀 I’m interested in MEAN Stack Development
 
 <!---
 Aishwarya165/Aishwarya165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
