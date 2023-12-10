@@ -1,4 +1,4 @@
-Hi, I'm Aishwarya Rajendran and I'm interested in Software Development.
+Hi
 
 <!---
 Aishwarya165/Aishwarya165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
