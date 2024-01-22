@@ -1,4 +1,5 @@
-Hi, I am Aishwarya Rajendran - MEAN Stack Developer
+Hi, I am Aishwarya Rajendran..
+MEAN Stack Developer
 
 <!---
 Aishwarya165/Aishwarya165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
